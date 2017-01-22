@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\touch-2.4.2\EQMS2\phonegap\platforms\android\CordovaLib\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\touch-2.4.2\EQMS2\phonegap\platforms\android\CordovaLib\src\debug\jniLibs"/></dataSet></merger>
